@@ -1,8 +1,6 @@
 # LiveKit Agents for Python
 
-Realtime framework for production-grade multimodal and voice AI agents.
 
-See [https://docs.livekit.io/agents/](https://docs.livekit.io/agents/) for quickstarts, documentation, and examples.
 
 ## Filler Word Detection
 
